@@ -1,0 +1,1 @@
+# Manufacturing-video relevance gate.

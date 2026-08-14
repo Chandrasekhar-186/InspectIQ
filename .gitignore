@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# Datasets / generated data
+data/raw/
+data/processed/
+data/splits/
+data/demo/
+
+# Model artifacts
+*.pt
+*.pth
+*.onnx
+*.engine
+*.safetensors
+
+# MLflow
+mlruns/*
+!mlruns/.gitkeep
+
+# Logs
+logs/
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

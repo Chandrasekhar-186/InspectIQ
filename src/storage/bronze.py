@@ -1,0 +1,1 @@
+# Bronze Delta table operations.

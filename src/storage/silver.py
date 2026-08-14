@@ -1,0 +1,1 @@
+# Silver Delta table operations.

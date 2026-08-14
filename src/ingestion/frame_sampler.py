@@ -1,0 +1,1 @@
+# Shared frame sampling logic.

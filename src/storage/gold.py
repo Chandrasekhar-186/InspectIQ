@@ -1,0 +1,1 @@
+# Gold Delta table operations.
